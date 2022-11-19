@@ -27,10 +27,8 @@
   "homepage": "https://github.com/adrianba/ts-package-template#readme",
   "devDependencies": {
     "@types/chai": "^4.3.4",
-    "@types/js-md5": "^0.4.3",
     "@types/mocha": "^10.0.0",
     "@types/node": "^18.11.9",
-    "@types/sha.js": "^2.4.0",
     "@typescript-eslint/eslint-plugin": "^5.42.1",
     "@typescript-eslint/parser": "^5.42.1",
     "chai": "^4.3.7",
